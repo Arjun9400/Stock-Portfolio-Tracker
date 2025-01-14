@@ -1,8 +1,7 @@
 # Stock-Portfolio-Tracker
-# Stock Portfolio Tracker
 
 
----
+
 
 ## Features
 
